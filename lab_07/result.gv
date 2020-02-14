@@ -1,0 +1,10 @@
+graph G
+{
+edge[color="gray",fontcolor="black",fontsize=12, len=6, penwidth=3.0];
+node[color="indigo",fontsize=12];
+
+Moscow -- Ufa [label=" 1369 " color=green];
+Ufa -- Novosibirsk [label=" 1992 " color=green];
+Moscow -- Saint_Petersburg [label=" 702 " color=green];
+Saint_Petersburg -- Vladivostok [label=" 9648 " color=green];
+}

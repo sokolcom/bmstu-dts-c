@@ -1,0 +1,18 @@
+graph G
+{
+        edge[color="gray",fontcolor="black",fontsize=12, len=6, penwidth=3.0];
+        node[color="indigo",fontsize=12];
+
+        Moscow -- Saint_Petersburg [label="702" color=red];
+        Moscow -- Novosibirsk [label="3380" color=red];
+        Moscow -- Krasnodar [label="1379" color=red];
+        Moscow -- Ufa [label="1369" color=red];
+        Saint_Petersburg -- Murmansk [label="1347" color=red];
+        Saint_Petersburg -- Krasnodar [label="2063" color=red];
+        Saint_Petersburg -- Ufa [label="2057" color=red];
+        Murmansk -- Krasnodar [label="3293" color=red];
+        Saint_Petersburg -- Vladivostok [label="9648" color=red];
+        Ufa -- Novosibirsk [label="1992" color=red];
+
+
+}
